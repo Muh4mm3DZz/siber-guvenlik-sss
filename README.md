@@ -125,6 +125,7 @@ https://www.udemy.com/course/ethical-hacking-kali-linux/ \
 https://www.udemy.com/course/practical-ethical-hacking/
 
 ### Türkçe 
+https
 https://www.udemy.com/course/sizma-testlerinde-metasploit-kullanimi/
 
 ## Ücretsiz Kurslar
